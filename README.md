@@ -1,7 +1,6 @@
 # the_choice
 
-A new Flutter project.
-
+The choice is a simple game for children
 ## Getting Started
 
 This project is a starting point for a Flutter application.
